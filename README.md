@@ -1,4 +1,4 @@
-# Plants vs Zombies-Inspired Game
+# Plants vs Zombies inspired Game
 
 This project is a simple game inspired by Plants vs Zombies. Players must strategically place units on a grid to fend off incoming enemies. The gameplay involves colorful and animated visuals, as shown below. Drag n drop canons to destroy enemies that are the same color, also collect dropping stars to buy canons.
 
